@@ -27,7 +27,14 @@
 
 Далее приведено разваитиие политики на разных итерациях обучения.
 
+<<<<<<< HEAD
 ![Итерация 1](Demonstrations/Demo_1.gif)
 ![Итерация 260](Demonstrations/Demo_260.gif)
 ![Итерация 450](Demonstrations/Demo_450.gif)
 ![Итерация 900](Demonstrations/Demo_900.gif)
+=======
+![Итерация 1](Demo_1.gif)
+![Итерация 260](Demo_260.gif)
+![Итерация 450](Demo_450.gif)
+![Итерация 900](Demo_900.gif)
+>>>>>>> b6615126153bd88e22e51ca06fb216f84e49c801
