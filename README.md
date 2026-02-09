@@ -11,7 +11,12 @@
 2. L. Smith, J. C. Kew, X. Bin Peng, S. Ha, J. Tan and S. Levine, "Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World," 2022 International Conference on Robotics and Automation (ICRA)
 3. A. Loquercio, A. Kumar and J. Malik, "Learning Visual Locomotion with Cross-Modal Supervision," 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
-Подробный анализ данных статей содержится в файле Test_task_Kruglov_A.S.pdf
+###Связанные со статьями репозитории:
+1. RMA - https://github.com/antonilo/rl_locomotion
+2. FT - https://github.com/lauramsmith/fine-tuning-locomotion
+3. CMS - https://github.com/antonilo/vision_locomotion
+
+Подробный анализ данных статей c рассмотрением недостатков каждого решения и гипотизами для их преодоления содержится в файле Test_task_Kruglov_A.S.pdf
 
 Статьи, глубокий анализ которых не проводился, но в которых также рассматривается указанная тематика находятся в папке Articles -> Unused  
 
